@@ -1,0 +1,11 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Tony.Common.DependencyInjection.Resolver.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Tony.Common.DependencyInjection.Resolver.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\obj\Debug\Tony.Common.DependencyInjection.Resolver.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\obj\Debug\Tony.Common.DependencyInjection.Resolver.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.DependencyInjection.Resolver\obj\Debug\Tony.Common.DependencyInjection.Resolver.pdb

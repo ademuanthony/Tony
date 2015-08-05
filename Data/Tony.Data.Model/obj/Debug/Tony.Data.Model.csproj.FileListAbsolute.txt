@@ -1,0 +1,6 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\bin\Debug\Tony.Data.Model.dll.config
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\bin\Debug\Tony.Data.Model.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\bin\Debug\Tony.Data.Model.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\obj\Debug\Tony.Data.Model.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\obj\Debug\Tony.Data.Model.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Model\obj\Debug\Tony.Data.Model.pdb

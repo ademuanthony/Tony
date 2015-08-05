@@ -1,0 +1,20 @@
+C:\Users\TONY\documents\visual studio 2012\Projects\VisitorsLogBook\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\documents\visual studio 2012\Projects\VisitorsLogBook\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\documents\visual studio 2012\Projects\VisitorsLogBook\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\documents\visual studio 2012\Projects\VisitorsLogBook\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\documents\visual studio 2012\Projects\VisitorsLogBook\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\Martins\Documents\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\Martins\Documents\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\Martins\Documents\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Martins\Documents\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\Martins\Documents\Visisoft2013\Visisoft\VisitorsLogBook.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.pdb

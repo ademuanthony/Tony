@@ -1,0 +1,15 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Services.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Services.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Common.DependencyInjection.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Model.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Repository.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Common.DependencyInjection.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Model.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Tony.Data.Repository.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\bin\Debug\EntityFramework.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\obj\Debug\Tony.Data.Services.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\obj\Debug\Tony.Data.Services.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Data\Tony.Data.Services\obj\Debug\Tony.Data.Services.pdb

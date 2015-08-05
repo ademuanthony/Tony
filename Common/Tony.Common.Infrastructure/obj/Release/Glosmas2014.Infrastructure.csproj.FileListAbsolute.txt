@@ -1,0 +1,5 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Glosmas2014\Glosmas2014.Infrastructure\bin\Release\Glosmas2014.Infrastructure.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Glosmas2014\Glosmas2014.Infrastructure\bin\Release\Glosmas2014.Infrastructure.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Glosmas2014\Glosmas2014.Infrastructure\obj\Release\Glosmas2014.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Glosmas2014\Glosmas2014.Infrastructure\obj\Release\Glosmas2014.Infrastructure.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Glosmas2014\Glosmas2014.Infrastructure\obj\Release\Glosmas2014.Infrastructure.pdb

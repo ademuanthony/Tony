@@ -1,0 +1,5 @@
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\bin\Debug\VisitorsLogBook.Infrastructure.pdb
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\TheRealHotel.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.dll
+C:\Users\TONY\Documents\Visual Studio 2012\Projects\TheRealHotel\TheRealHotel.Infrastructure\obj\Debug\VisitorsLogBook.Infrastructure.pdb

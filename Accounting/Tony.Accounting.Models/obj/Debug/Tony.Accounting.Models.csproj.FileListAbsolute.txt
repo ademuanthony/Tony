@@ -1,0 +1,12 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\Tony.Accounting.Models.dll.config
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\Tony.Accounting.Models.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\Tony.Accounting.Models.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\Tony.Data.Model.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\Tony.Data.Model.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\EntityFramework.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Debug\Tony.Accounting.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Debug\Tony.Accounting.Models.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Debug\Tony.Accounting.Models.pdb

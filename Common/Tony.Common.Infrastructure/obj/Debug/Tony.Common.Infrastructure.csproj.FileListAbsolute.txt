@@ -1,0 +1,5 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.Infrastructure\bin\Debug\Tony.Common.Infrastructure.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.Infrastructure\bin\Debug\Tony.Common.Infrastructure.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.Infrastructure\obj\Debug\Tony.Common.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.Infrastructure\obj\Debug\Tony.Common.Infrastructure.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Common\Tony.Common.Infrastructure\obj\Debug\Tony.Common.Infrastructure.pdb

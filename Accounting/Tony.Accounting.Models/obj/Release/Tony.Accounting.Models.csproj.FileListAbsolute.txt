@@ -1,0 +1,9 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\Tony.Accounting.Models.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\Tony.Accounting.Models.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\Tony.Data.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\EntityFramework.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\Tony.Data.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\bin\Release\EntityFramework.xml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Release\Tony.Accounting.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Release\Tony.Accounting.Models.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Accounting\Tony.Accounting.Models\obj\Release\Tony.Accounting.Models.pdb
