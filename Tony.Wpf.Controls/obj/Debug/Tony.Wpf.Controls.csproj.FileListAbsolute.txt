@@ -1,0 +1,10 @@
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls_MarkupCompile.cache
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls_MarkupCompile.lref
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\bin\Debug\Tony.Wpf.Controls.dll
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\bin\Debug\Tony.Wpf.Controls.pdb
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\ThemedWindowStyle.baml
+C:\Users\Tony\Documents\Visual Studio 2013\Projects\Tony\Tony.Wpf.Controls\obj\Debug\Tony.Wpf.Controls.g.resources
